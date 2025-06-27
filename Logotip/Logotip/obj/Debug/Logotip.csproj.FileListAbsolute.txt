@@ -1,0 +1,10 @@
+F:\WindowsForm\Logotip\Logotip\bin\Debug\Logotip.exe.config
+F:\WindowsForm\Logotip\Logotip\bin\Debug\Logotip.exe
+F:\WindowsForm\Logotip\Logotip\bin\Debug\Logotip.pdb
+F:\WindowsForm\Logotip\Logotip\obj\Debug\Logotip.csproj.AssemblyReference.cache
+F:\WindowsForm\Logotip\Logotip\obj\Debug\Logotip.Properties.Resources.resources
+F:\WindowsForm\Logotip\Logotip\obj\Debug\Logotip.csproj.GenerateResource.cache
+F:\WindowsForm\Logotip\Logotip\obj\Debug\Logotip.csproj.CoreCompileInputs.cache
+F:\WindowsForm\Logotip\Logotip\obj\Debug\Logotip.exe
+F:\WindowsForm\Logotip\Logotip\obj\Debug\Logotip.pdb
+F:\WindowsForm\Logotip\Logotip\obj\Debug\Logotip.Form1.resources
