@@ -179,16 +179,13 @@ namespace StandardMenu
         {
             if (leftToolStripMenuItem.Checked)
             {
-                // Сброс других кнопок выравнивания
                 centreToolStripMenuItem.Checked = false;
                 rightToolStripMenuItem.Checked = false;
 
-                // Установка состояния кнопок на тулбаре
                 lefttoolStripButton.Checked = true;
                 centreStripButton.Checked = false;
                 righttoolStripButton.Checked = false;
 
-                // Применение выравнивания
                 richTextBox.SelectionAlignment = HorizontalAlignment.Left;
             }
         }
@@ -197,16 +194,13 @@ namespace StandardMenu
         {
             if (centreToolStripMenuItem.Checked)
             {
-                // Сброс других кнопок выравнивания
                 leftToolStripMenuItem.Checked = false;
                 rightToolStripMenuItem.Checked = false;
 
-                // Установка состояния кнопок на тулбаре
                 lefttoolStripButton.Checked = false;
                 centreStripButton.Checked = true;
                 righttoolStripButton.Checked = false;
 
-                // Применение выравнивания
                 richTextBox.SelectionAlignment = HorizontalAlignment.Center;
             }
         }
@@ -215,16 +209,13 @@ namespace StandardMenu
         {
             if (rightToolStripMenuItem.Checked)
             {
-                // Сброс других кнопок выравнивания
                 leftToolStripMenuItem.Checked = false;
                 centreToolStripMenuItem.Checked = false;
 
-                // Установка состояния кнопок на тулбаре
                 lefttoolStripButton.Checked = false;
                 centreStripButton.Checked = false;
                 righttoolStripButton.Checked = true;
 
-                // Применение выравнивания
                 richTextBox.SelectionAlignment = HorizontalAlignment.Right;
             }
         }
@@ -290,6 +281,11 @@ namespace StandardMenu
         private void сохранитьToolStripButton_Click(object sender, EventArgs e)
         {
             saveToolStripMenuItem_Click(sender, e);
+        }
+
+        private void aboutToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Тернавская Валерия Романовна 27.06.2025","Информация");
         }
     }
 }
