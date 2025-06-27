@@ -1,0 +1,11 @@
+C:\Users\Asus\Desktop\Diagram\Diagram\bin\Debug\Diagram.exe.config
+C:\Users\Asus\Desktop\Diagram\Diagram\bin\Debug\Diagram.exe
+C:\Users\Asus\Desktop\Diagram\Diagram\bin\Debug\Diagram.pdb
+C:\Users\Asus\Desktop\Diagram\Diagram\obj\Debug\Diagram.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Diagram\Diagram\obj\Debug\Diagram.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\Desktop\Diagram\Diagram\obj\Debug\Diagram.MainForm.resources
+C:\Users\Asus\Desktop\Diagram\Diagram\obj\Debug\Diagram.Properties.Resources.resources
+C:\Users\Asus\Desktop\Diagram\Diagram\obj\Debug\Diagram.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\Diagram\Diagram\obj\Debug\Diagram.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Diagram\Diagram\obj\Debug\Diagram.exe
+C:\Users\Asus\Desktop\Diagram\Diagram\obj\Debug\Diagram.pdb
