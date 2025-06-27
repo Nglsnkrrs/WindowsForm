@@ -1,0 +1,11 @@
+C:\Users\Asus\Desktop\Maze\Maze\bin\Debug\Maze.exe.config
+C:\Users\Asus\Desktop\Maze\Maze\bin\Debug\Maze.exe
+C:\Users\Asus\Desktop\Maze\Maze\bin\Debug\Maze.pdb
+C:\Users\Asus\Desktop\Maze\Maze\obj\Debug\Maze.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Maze\Maze\obj\Debug\Maze.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\Desktop\Maze\Maze\obj\Debug\Maze.Form1.resources
+C:\Users\Asus\Desktop\Maze\Maze\obj\Debug\Maze.Properties.Resources.resources
+C:\Users\Asus\Desktop\Maze\Maze\obj\Debug\Maze.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\Maze\Maze\obj\Debug\Maze.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Maze\Maze\obj\Debug\Maze.exe
+C:\Users\Asus\Desktop\Maze\Maze\obj\Debug\Maze.pdb
