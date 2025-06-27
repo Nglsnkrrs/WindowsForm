@@ -1,0 +1,21 @@
+C:\Users\Asus\Desktop\ShapesDrawing\ShapesDrawing\bin\Debug\ShapesDrawing.exe.config
+C:\Users\Asus\Desktop\ShapesDrawing\ShapesDrawing\bin\Debug\ShapesDrawing.exe
+C:\Users\Asus\Desktop\ShapesDrawing\ShapesDrawing\bin\Debug\ShapesDrawing.pdb
+C:\Users\Asus\Desktop\ShapesDrawing\ShapesDrawing\obj\Debug\ShapesDrawing.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\ShapesDrawing\ShapesDrawing\obj\Debug\ShapesDrawing.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\Desktop\ShapesDrawing\ShapesDrawing\obj\Debug\ShapesDrawing.Properties.Resources.resources
+C:\Users\Asus\Desktop\ShapesDrawing\ShapesDrawing\obj\Debug\ShapesDrawing.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\ShapesDrawing\ShapesDrawing\obj\Debug\ShapesDrawing.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\ShapesDrawing\ShapesDrawing\obj\Debug\ShapesDrawing.exe
+C:\Users\Asus\Desktop\ShapesDrawing\ShapesDrawing\obj\Debug\ShapesDrawing.pdb
+C:\Users\Asus\Desktop\ShapesDrawing\ShapesDrawing\obj\Debug\ShapesDrawing.MainForm.resources
+C:\Users\nglsnkrs\Downloads\Homework 19 ''Использование возможностей GDI+''\ShapesDrawing\ShapesDrawing\bin\Debug\ShapesDrawing.exe.config
+C:\Users\nglsnkrs\Downloads\Homework 19 ''Использование возможностей GDI+''\ShapesDrawing\ShapesDrawing\bin\Debug\ShapesDrawing.exe
+C:\Users\nglsnkrs\Downloads\Homework 19 ''Использование возможностей GDI+''\ShapesDrawing\ShapesDrawing\bin\Debug\ShapesDrawing.pdb
+C:\Users\nglsnkrs\Downloads\Homework 19 ''Использование возможностей GDI+''\ShapesDrawing\ShapesDrawing\obj\Debug\ShapesDrawing.csproj.AssemblyReference.cache
+C:\Users\nglsnkrs\Downloads\Homework 19 ''Использование возможностей GDI+''\ShapesDrawing\ShapesDrawing\obj\Debug\ShapesDrawing.MainForm.resources
+C:\Users\nglsnkrs\Downloads\Homework 19 ''Использование возможностей GDI+''\ShapesDrawing\ShapesDrawing\obj\Debug\ShapesDrawing.Properties.Resources.resources
+C:\Users\nglsnkrs\Downloads\Homework 19 ''Использование возможностей GDI+''\ShapesDrawing\ShapesDrawing\obj\Debug\ShapesDrawing.csproj.GenerateResource.cache
+C:\Users\nglsnkrs\Downloads\Homework 19 ''Использование возможностей GDI+''\ShapesDrawing\ShapesDrawing\obj\Debug\ShapesDrawing.csproj.CoreCompileInputs.cache
+C:\Users\nglsnkrs\Downloads\Homework 19 ''Использование возможностей GDI+''\ShapesDrawing\ShapesDrawing\obj\Debug\ShapesDrawing.exe
+C:\Users\nglsnkrs\Downloads\Homework 19 ''Использование возможностей GDI+''\ShapesDrawing\ShapesDrawing\obj\Debug\ShapesDrawing.pdb
