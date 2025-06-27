@@ -1,0 +1,10 @@
+F:\WindowsForm\Questionnaire\Questionnaire\obj\Debug\Questionnaire.csproj.AssemblyReference.cache
+F:\WindowsForm\Questionnaire\Questionnaire\obj\Debug\Questionnaire.Form1.resources
+F:\WindowsForm\Questionnaire\Questionnaire\obj\Debug\Questionnaire.Properties.Resources.resources
+F:\WindowsForm\Questionnaire\Questionnaire\obj\Debug\Questionnaire.csproj.GenerateResource.cache
+F:\WindowsForm\Questionnaire\Questionnaire\obj\Debug\Questionnaire.csproj.CoreCompileInputs.cache
+F:\WindowsForm\Questionnaire\Questionnaire\bin\Debug\Questionnaire.exe.config
+F:\WindowsForm\Questionnaire\Questionnaire\bin\Debug\Questionnaire.exe
+F:\WindowsForm\Questionnaire\Questionnaire\bin\Debug\Questionnaire.pdb
+F:\WindowsForm\Questionnaire\Questionnaire\obj\Debug\Questionnaire.exe
+F:\WindowsForm\Questionnaire\Questionnaire\obj\Debug\Questionnaire.pdb

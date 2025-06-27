@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<ArrayOfUser xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <User>
+    <Name>Валерия</Name>
+    <Surname>Тернавская</Surname>
+    <Email>ternavs12345@gmail.com</Email>
+    <Phone>+79900502928</Phone>
+  </User>
+  <User>
+    <Name>Ангелина</Name>
+    <Surname>Кохан</Surname>
+    <Email>dfsdfsf@gmail.com</Email>
+    <Phone>+7951654554</Phone>
+  </User>
+  <User>
+    <Name>DSDawew</Name>
+    <Surname>Ddfsdfsdf</Surname>
+    <Email>dsdfsf@gfdf.ru</Email>
+    <Phone>+945613215</Phone>
+  </User>
+</ArrayOfUser>
