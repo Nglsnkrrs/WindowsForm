@@ -11,6 +11,11 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
+//Задание 1
+//Написать приложение, которое отображает количество текста,
+//прочитанного из файла с помощью ProgressBar. 
+
+
 namespace CoutText
 {
     public partial class Form1 : Form
