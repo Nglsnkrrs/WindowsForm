@@ -1,0 +1,32 @@
+C:\Users\Asus\Desktop\ChessBoard\ChessBoard\bin\Debug\ChessBoard.exe.config
+C:\Users\Asus\Desktop\ChessBoard\ChessBoard\bin\Debug\ChessBoard.exe
+C:\Users\Asus\Desktop\ChessBoard\ChessBoard\bin\Debug\ChessBoard.pdb
+C:\Users\Asus\Desktop\ChessBoard\ChessBoard\obj\Debug\ChessBoard.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\ChessBoard\ChessBoard\obj\Debug\ChessBoard.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\Desktop\ChessBoard\ChessBoard\obj\Debug\ChessBoard.Properties.Resources.resources
+C:\Users\Asus\Desktop\ChessBoard\ChessBoard\obj\Debug\ChessBoard.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\ChessBoard\ChessBoard\obj\Debug\ChessBoard.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\ChessBoard\ChessBoard\obj\Debug\ChessBoard.exe
+C:\Users\Asus\Desktop\ChessBoard\ChessBoard\obj\Debug\ChessBoard.pdb
+C:\Users\Asus\Desktop\ChessBoard\ChessBoard\obj\Debug\ChessBoard.Form1.resources
+C:\Академия ''Шаг''\Oбучение ''Шаг''\Домашние задания\C#WinForms\18) 17.12.23\ChessBoard\ChessBoard\bin\Debug\ChessBoard.exe.config
+C:\Академия ''Шаг''\Oбучение ''Шаг''\Домашние задания\C#WinForms\18) 17.12.23\ChessBoard\ChessBoard\bin\Debug\ChessBoard.exe
+C:\Академия ''Шаг''\Oбучение ''Шаг''\Домашние задания\C#WinForms\18) 17.12.23\ChessBoard\ChessBoard\bin\Debug\ChessBoard.pdb
+C:\Академия ''Шаг''\Oбучение ''Шаг''\Домашние задания\C#WinForms\18) 17.12.23\ChessBoard\ChessBoard\obj\Debug\ChessBoard.csproj.AssemblyReference.cache
+C:\Академия ''Шаг''\Oбучение ''Шаг''\Домашние задания\C#WinForms\18) 17.12.23\ChessBoard\ChessBoard\obj\Debug\ChessBoard.csproj.SuggestedBindingRedirects.cache
+C:\Академия ''Шаг''\Oбучение ''Шаг''\Домашние задания\C#WinForms\18) 17.12.23\ChessBoard\ChessBoard\obj\Debug\ChessBoard.Form1.resources
+C:\Академия ''Шаг''\Oбучение ''Шаг''\Домашние задания\C#WinForms\18) 17.12.23\ChessBoard\ChessBoard\obj\Debug\ChessBoard.Properties.Resources.resources
+C:\Академия ''Шаг''\Oбучение ''Шаг''\Домашние задания\C#WinForms\18) 17.12.23\ChessBoard\ChessBoard\obj\Debug\ChessBoard.csproj.GenerateResource.cache
+C:\Академия ''Шаг''\Oбучение ''Шаг''\Домашние задания\C#WinForms\18) 17.12.23\ChessBoard\ChessBoard\obj\Debug\ChessBoard.csproj.CoreCompileInputs.cache
+C:\Академия ''Шаг''\Oбучение ''Шаг''\Домашние задания\C#WinForms\18) 17.12.23\ChessBoard\ChessBoard\obj\Debug\ChessBoard.exe
+C:\Академия ''Шаг''\Oбучение ''Шаг''\Домашние задания\C#WinForms\18) 17.12.23\ChessBoard\ChessBoard\obj\Debug\ChessBoard.pdb
+C:\Users\nglsnkrs\Downloads\Homework 19 ''Использование возможностей GDI+''\ChessBoard\ChessBoard\bin\Debug\ChessBoard.exe.config
+C:\Users\nglsnkrs\Downloads\Homework 19 ''Использование возможностей GDI+''\ChessBoard\ChessBoard\bin\Debug\ChessBoard.exe
+C:\Users\nglsnkrs\Downloads\Homework 19 ''Использование возможностей GDI+''\ChessBoard\ChessBoard\bin\Debug\ChessBoard.pdb
+C:\Users\nglsnkrs\Downloads\Homework 19 ''Использование возможностей GDI+''\ChessBoard\ChessBoard\obj\Debug\ChessBoard.csproj.AssemblyReference.cache
+C:\Users\nglsnkrs\Downloads\Homework 19 ''Использование возможностей GDI+''\ChessBoard\ChessBoard\obj\Debug\ChessBoard.Form1.resources
+C:\Users\nglsnkrs\Downloads\Homework 19 ''Использование возможностей GDI+''\ChessBoard\ChessBoard\obj\Debug\ChessBoard.Properties.Resources.resources
+C:\Users\nglsnkrs\Downloads\Homework 19 ''Использование возможностей GDI+''\ChessBoard\ChessBoard\obj\Debug\ChessBoard.csproj.GenerateResource.cache
+C:\Users\nglsnkrs\Downloads\Homework 19 ''Использование возможностей GDI+''\ChessBoard\ChessBoard\obj\Debug\ChessBoard.csproj.CoreCompileInputs.cache
+C:\Users\nglsnkrs\Downloads\Homework 19 ''Использование возможностей GDI+''\ChessBoard\ChessBoard\obj\Debug\ChessBoard.exe
+C:\Users\nglsnkrs\Downloads\Homework 19 ''Использование возможностей GDI+''\ChessBoard\ChessBoard\obj\Debug\ChessBoard.pdb
