@@ -1,0 +1,11 @@
+C:\Users\Asus\Desktop\GraphFunction\GraphFunction\bin\Debug\GraphFunction.exe.config
+C:\Users\Asus\Desktop\GraphFunction\GraphFunction\bin\Debug\GraphFunction.exe
+C:\Users\Asus\Desktop\GraphFunction\GraphFunction\bin\Debug\GraphFunction.pdb
+C:\Users\Asus\Desktop\GraphFunction\GraphFunction\obj\Debug\GraphFunction.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\GraphFunction\GraphFunction\obj\Debug\GraphFunction.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\Desktop\GraphFunction\GraphFunction\obj\Debug\GraphFunction.Properties.Resources.resources
+C:\Users\Asus\Desktop\GraphFunction\GraphFunction\obj\Debug\GraphFunction.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\GraphFunction\GraphFunction\obj\Debug\GraphFunction.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\GraphFunction\GraphFunction\obj\Debug\GraphFunction.exe
+C:\Users\Asus\Desktop\GraphFunction\GraphFunction\obj\Debug\GraphFunction.pdb
+C:\Users\Asus\Desktop\GraphFunction\GraphFunction\obj\Debug\GraphFunction.MainForm.resources
