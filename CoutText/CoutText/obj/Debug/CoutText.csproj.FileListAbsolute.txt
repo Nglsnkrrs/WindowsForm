@@ -1,0 +1,10 @@
+F:\WindowsForm\CoutText\CoutText\obj\Debug\CoutText.csproj.AssemblyReference.cache
+F:\WindowsForm\CoutText\CoutText\obj\Debug\CoutText.Form1.resources
+F:\WindowsForm\CoutText\CoutText\obj\Debug\CoutText.Properties.Resources.resources
+F:\WindowsForm\CoutText\CoutText\obj\Debug\CoutText.csproj.GenerateResource.cache
+F:\WindowsForm\CoutText\CoutText\obj\Debug\CoutText.csproj.CoreCompileInputs.cache
+F:\WindowsForm\CoutText\CoutText\bin\Debug\CoutText.exe.config
+F:\WindowsForm\CoutText\CoutText\bin\Debug\CoutText.exe
+F:\WindowsForm\CoutText\CoutText\bin\Debug\CoutText.pdb
+F:\WindowsForm\CoutText\CoutText\obj\Debug\CoutText.exe
+F:\WindowsForm\CoutText\CoutText\obj\Debug\CoutText.pdb
