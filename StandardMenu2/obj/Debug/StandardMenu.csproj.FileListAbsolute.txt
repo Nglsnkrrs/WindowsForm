@@ -1,0 +1,40 @@
+C:\Users\Admin\source\repos\StandardMenu\bin\Debug\StandardMenu.exe.config
+C:\Users\Admin\source\repos\StandardMenu\bin\Debug\StandardMenu.exe
+C:\Users\Admin\source\repos\StandardMenu\bin\Debug\StandardMenu.pdb
+C:\Users\Admin\source\repos\StandardMenu\obj\Debug\StandardMenu.Form1.resources
+C:\Users\Admin\source\repos\StandardMenu\obj\Debug\StandardMenu.Properties.Resources.resources
+C:\Users\Admin\source\repos\StandardMenu\obj\Debug\StandardMenu.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\StandardMenu\obj\Debug\StandardMenu.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\StandardMenu\obj\Debug\StandardMenu.exe
+C:\Users\Admin\source\repos\StandardMenu\obj\Debug\StandardMenu.pdb
+C:\Users\Admin\source\repos\StandardMenu\obj\Debug\StandardMenu.csproj.AssemblyReference.cache
+C:\Users\nglsnkrs\Downloads\StandardMenu (1)\StandardMenu\obj\Debug\StandardMenu.csproj.AssemblyReference.cache
+C:\Users\nglsnkrs\Downloads\StandardMenu (1)\StandardMenu\obj\Debug\StandardMenu.Form1.resources
+C:\Users\nglsnkrs\Downloads\StandardMenu (1)\StandardMenu\obj\Debug\StandardMenu.Properties.Resources.resources
+C:\Users\nglsnkrs\Downloads\StandardMenu (1)\StandardMenu\obj\Debug\StandardMenu.csproj.GenerateResource.cache
+C:\Users\nglsnkrs\Downloads\StandardMenu (1)\StandardMenu\obj\Debug\StandardMenu.csproj.CoreCompileInputs.cache
+C:\Users\nglsnkrs\Downloads\StandardMenu (1)\StandardMenu\obj\Debug\StandardMenu.exe
+C:\Users\nglsnkrs\Downloads\StandardMenu (1)\StandardMenu\obj\Debug\StandardMenu.pdb
+C:\Users\nglsnkrs\Downloads\StandardMenu (1)\StandardMenu\bin\Debug\StandardMenu.exe.config
+C:\Users\nglsnkrs\Downloads\StandardMenu (1)\StandardMenu\bin\Debug\StandardMenu.exe
+C:\Users\nglsnkrs\Downloads\StandardMenu (1)\StandardMenu\bin\Debug\StandardMenu.pdb
+F:\WindowsForm\StandardMenu\bin\Debug\StandardMenu.exe.config
+F:\WindowsForm\StandardMenu\bin\Debug\StandardMenu.exe
+F:\WindowsForm\StandardMenu\bin\Debug\StandardMenu.pdb
+F:\WindowsForm\StandardMenu\obj\Debug\StandardMenu.csproj.AssemblyReference.cache
+F:\WindowsForm\StandardMenu\obj\Debug\StandardMenu.Form1.resources
+F:\WindowsForm\StandardMenu\obj\Debug\StandardMenu.Properties.Resources.resources
+F:\WindowsForm\StandardMenu\obj\Debug\StandardMenu.csproj.GenerateResource.cache
+F:\WindowsForm\StandardMenu\obj\Debug\StandardMenu.csproj.CoreCompileInputs.cache
+F:\WindowsForm\StandardMenu\obj\Debug\StandardMenu.exe
+F:\WindowsForm\StandardMenu\obj\Debug\StandardMenu.pdb
+F:\WindowsForm\StandardMenu2\bin\Debug\StandardMenu.exe.config
+F:\WindowsForm\StandardMenu2\bin\Debug\StandardMenu.exe
+F:\WindowsForm\StandardMenu2\bin\Debug\StandardMenu.pdb
+F:\WindowsForm\StandardMenu2\obj\Debug\StandardMenu.csproj.AssemblyReference.cache
+F:\WindowsForm\StandardMenu2\obj\Debug\StandardMenu.Form1.resources
+F:\WindowsForm\StandardMenu2\obj\Debug\StandardMenu.Properties.Resources.resources
+F:\WindowsForm\StandardMenu2\obj\Debug\StandardMenu.csproj.GenerateResource.cache
+F:\WindowsForm\StandardMenu2\obj\Debug\StandardMenu.csproj.CoreCompileInputs.cache
+F:\WindowsForm\StandardMenu2\obj\Debug\StandardMenu.exe
+F:\WindowsForm\StandardMenu2\obj\Debug\StandardMenu.pdb
