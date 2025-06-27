@@ -1,0 +1,11 @@
+C:\Users\Asus\Desktop\DollarRate\DollarRate\bin\Debug\DollarRate.exe.config
+C:\Users\Asus\Desktop\DollarRate\DollarRate\bin\Debug\DollarRate.exe
+C:\Users\Asus\Desktop\DollarRate\DollarRate\bin\Debug\DollarRate.pdb
+C:\Users\Asus\Desktop\DollarRate\DollarRate\obj\Debug\DollarRate.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\DollarRate\DollarRate\obj\Debug\DollarRate.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\Desktop\DollarRate\DollarRate\obj\Debug\DollarRate.Form1.resources
+C:\Users\Asus\Desktop\DollarRate\DollarRate\obj\Debug\DollarRate.Properties.Resources.resources
+C:\Users\Asus\Desktop\DollarRate\DollarRate\obj\Debug\DollarRate.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\DollarRate\DollarRate\obj\Debug\DollarRate.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\DollarRate\DollarRate\obj\Debug\DollarRate.exe
+C:\Users\Asus\Desktop\DollarRate\DollarRate\obj\Debug\DollarRate.pdb
